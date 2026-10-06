@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShriSurya97
-- 👀 I’m interested in coding
-- 🌱 I’m currently an Embedded systems trainee at Emertxe Information Technologies
-- 💞️ I’m looking to collaborate on any embedded system-based project
+- 👀 VLSI Design verification and Validation Engineer.
+-  Formerly Qualcomm validation engineer & Currently working on Cadence emerging Tensilica RISCV Processors  
 - 📫 you can reach me through GitHub or LinkedIn
 - 😄 Pronouns: He/Him
    
